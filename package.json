@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Frontend for COPPA Risk Assessment System",
   "private": true,
-  "homepage": "https://MazkaB.github.io/COPPARiskFilterApp",
+  "homepage": "https://mazkab.github.io/COPPARiskFilterApp",
   "dependencies": {
     "axios": "^0.24.0",
     "react": "^17.0.2",
