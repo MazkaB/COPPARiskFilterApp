@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7c94ce1.chunk.css",
-    "main.js": "/static/js/main.3d4963fb.chunk.js",
-    "main.js.map": "/static/js/main.3d4963fb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.27f0363a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.27f0363a.js.map",
-    "static/js/2.f731fa0a.chunk.js": "/static/js/2.f731fa0a.chunk.js",
-    "static/js/2.f731fa0a.chunk.js.map": "/static/js/2.f731fa0a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e7c94ce1.chunk.css.map": "/static/css/main.e7c94ce1.chunk.css.map",
-    "static/js/2.f731fa0a.chunk.js.LICENSE.txt": "/static/js/2.f731fa0a.chunk.js.LICENSE.txt"
+    "main.css": "/COPPARiskFilterApp/static/css/main.e7c94ce1.chunk.css",
+    "main.js": "/COPPARiskFilterApp/static/js/main.f0908a91.chunk.js",
+    "main.js.map": "/COPPARiskFilterApp/static/js/main.f0908a91.chunk.js.map",
+    "runtime-main.js": "/COPPARiskFilterApp/static/js/runtime-main.2bffcf00.js",
+    "runtime-main.js.map": "/COPPARiskFilterApp/static/js/runtime-main.2bffcf00.js.map",
+    "static/js/2.f731fa0a.chunk.js": "/COPPARiskFilterApp/static/js/2.f731fa0a.chunk.js",
+    "static/js/2.f731fa0a.chunk.js.map": "/COPPARiskFilterApp/static/js/2.f731fa0a.chunk.js.map",
+    "index.html": "/COPPARiskFilterApp/index.html",
+    "static/css/main.e7c94ce1.chunk.css.map": "/COPPARiskFilterApp/static/css/main.e7c94ce1.chunk.css.map",
+    "static/js/2.f731fa0a.chunk.js.LICENSE.txt": "/COPPARiskFilterApp/static/js/2.f731fa0a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.27f0363a.js",
+    "static/js/runtime-main.2bffcf00.js",
     "static/js/2.f731fa0a.chunk.js",
     "static/css/main.e7c94ce1.chunk.css",
-    "static/js/main.3d4963fb.chunk.js"
+    "static/js/main.f0908a91.chunk.js"
   ]
 }
